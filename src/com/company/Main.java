@@ -11,6 +11,7 @@ public class Main {
         String str = "凍蒜";
 //        primNum();
         printStar();
+        String x = "";
     }
 
     public static void printStar() {
